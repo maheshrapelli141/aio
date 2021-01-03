@@ -2,6 +2,8 @@
     import Layout from '@Components/Layout';
     import ImageExample from '@Components/ImageExample';
     import HelloWorld from '@Components/HelloWorld';
+    
+
 </script>
 
 <style src="./style.scss">

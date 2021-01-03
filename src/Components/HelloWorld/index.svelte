@@ -1,3 +1,5 @@
+<script>
+</script>
 <style src="./style.scss">
 
 </style>
@@ -6,4 +8,5 @@
     <span class="title__top">Hello</span>
     <span class="title__front">World</span>
     <span class="title__back">World</span>
+    <button type="button" class="btn btn-primary">Click me</button>
 </div>
